@@ -3,6 +3,14 @@ Dredd::Rack Lightning Talk
 
 A lightning talk (5min) to introduce Dredd::Rack.
 
+Events
+------
+
+I've presented this talk at:
+
+- [DynLang Meetup][dynlang], June 2015, Santiago, Chile
+
+  [dynlang]: http://www.meetup.com/dynlangchile/events/221395461
 
 Credits
 -------
