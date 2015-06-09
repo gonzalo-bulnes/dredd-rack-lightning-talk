@@ -3,7 +3,10 @@
 Dredd::Rack Lightning Talk
 ==========================
 
-A lightning talk (5min) to introduce Dredd::Rack.
+A lightning talk (5min) to introduce [Dredd::Rack][dredd-rack]. ([PDF][pdf])
+
+  [dredd-rack]: https://github.com/gonzalo-bulnes/dredd-rack
+  [pdf]: https://github.com/gonzalo-bulnes/dredd-rack-lightning-talk/raw/master/dredd-rack-lightning-talk.pdf
 
 Events
 ------
