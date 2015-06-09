@@ -1,3 +1,5 @@
+<img src="src/teaser.png" alt=""/>
+
 Dredd::Rack Lightning Talk
 ==========================
 
